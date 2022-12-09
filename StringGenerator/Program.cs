@@ -8,17 +8,17 @@ string[] commands = System.Environment.GetCommandLineArgs();
 
 try
 {
-  if (int.TryParse(commands[1], out number))
-  {
-    result = new string(Enumerable.Repeat(text, number).Select(x => x[random.Next(x.Length)]).ToArray());
-    System.Console.WriteLine(result);
-  }
-  else
-  {
-    System.Console.WriteLine("please input number");
-  }
+    if (int.TryParse(commands[1], out number))
+    {
+        result = new string(Enumerable.Repeat(text, number).Select(x => x[random.Next(x.Length)]).ToArray());
+        System.Console.WriteLine(result);
+    }
+    else
+    {
+        System.Console.WriteLine("please input number");
+    }
 }
 catch(System.IndexOutOfRangeException)
 {
-  System.Console.WriteLine("please input number");
+    System.Console.WriteLine("please input number");
 }
