@@ -1,0 +1,15 @@
+C:\StringGenerator\StringGenerator\bin\Release\net6.0\win-x64\StringGenerator.exe
+C:\StringGenerator\StringGenerator\bin\Release\net6.0\win-x64\StringGenerator.deps.json
+C:\StringGenerator\StringGenerator\bin\Release\net6.0\win-x64\StringGenerator.runtimeconfig.json
+C:\StringGenerator\StringGenerator\bin\Release\net6.0\win-x64\StringGenerator.dll
+C:\StringGenerator\StringGenerator\bin\Release\net6.0\win-x64\StringGenerator.pdb
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.csproj.AssemblyReference.cache
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.AssemblyInfoInputs.cache
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.AssemblyInfo.cs
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.csproj.CoreCompileInputs.cache
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.dll
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\refint\StringGenerator.dll
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.pdb
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\StringGenerator.genruntimeconfig.cache
+C:\StringGenerator\StringGenerator\obj\Release\net6.0\win-x64\ref\StringGenerator.dll
