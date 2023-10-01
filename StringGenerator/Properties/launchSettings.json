@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StringGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"100\""
+    }
+  }
+}
